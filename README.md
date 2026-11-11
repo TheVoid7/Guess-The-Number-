@@ -8,6 +8,7 @@ This game is all about guessing the right number. The application will pick a se
 - Auto save: it saves your personal score in your local PC using by creating a simple JSON file after your very first game.
 - Smart Initialization: Automatically makes a fresh save file
 - Terminal interface: the game runs in your CMD for now, with plans of making a GUI for it
+- *NEW* in version 1.0.1 of the game, i removed how bad the text looks, after a while the texts gets cramped together , which looks bad. but not anymore!
 
 ## How To Play ##
 to play the game just type Start!
